@@ -1,3 +1,9 @@
 this is a sample file
 
 git add filename for adding text file to git
+
+git status for checking newly added files and changes
+
+git commit -m "Description about the commit" file name
+
+git push -u origin main for pushing the committed file
